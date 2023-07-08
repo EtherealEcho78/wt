@@ -1,0 +1,5 @@
+def fun():
+    a=20
+    b=30
+    c=a+b
+end_time= time.time()
